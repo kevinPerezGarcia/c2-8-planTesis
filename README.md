@@ -33,4 +33,4 @@ Ciclo 2
 
 ## Contenido del curso
 
-* [Sesión #](./). Título de la sesión
+* [Sesión 1](/sesion1/). Idea de investigación
