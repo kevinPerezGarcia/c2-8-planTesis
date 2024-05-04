@@ -34,3 +34,4 @@ Ciclo 2
 ## Contenido del curso
 
 * [Sesión 1](/sesion1/). Idea de investigación
+* Sesion 2. Exposiciones de las ideas de investigación
