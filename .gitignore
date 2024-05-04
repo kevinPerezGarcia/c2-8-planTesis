@@ -1,0 +1,10 @@
+# Materiales de cada sesión
+**/material/
+
+# Archivos Word, Excel, Point
+**/*.docx
+**/*.xlsx
+**/*.pptx
+
+# Sesión 2
+sesion2/
