@@ -36,3 +36,4 @@ Ciclo 2
 * [Sesión 1](/sesion1/). Idea de investigación
 * [Sesión 2](/sesion2/). Exposiciones de ideas de investigación
 * [Sesión 3](/sesion3/). Revisión documentaria
+* [Sesión 4](/sesion4/). Gestión documentaria
