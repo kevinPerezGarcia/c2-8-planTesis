@@ -34,4 +34,5 @@ Ciclo 2
 ## Contenido del curso
 
 * [Sesión 1](/sesion1/). Idea de investigación
-* [Sesion 2](/sesion2/). Exposiciones de ideas de investigación
+* [Sesión 2](/sesion2/). Exposiciones de ideas de investigación
+* [Sesión 3](/sesion3/). Revisión documentaria
