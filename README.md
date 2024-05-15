@@ -37,4 +37,5 @@ Ciclo 2
 * [Sesión 2](/sesion2/). Exposiciones de ideas de investigación
 * [Sesión 3](/sesion3/). Revisión documentaria
 * [Sesión 4](/sesion4/). Gestión documentaria
+* Sesión 5. Exposiciones del estado del arte de los planes de tesis
 * [Sesión 6](/sesion6/). Redacción de objetivos, pregunta y título de investigación
