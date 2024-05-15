@@ -8,7 +8,7 @@ Ciclo 2
 
 # Plan de Tesis
 
-## 👥 Autor
+## 👥 Alumno
 
 [@Kevin Perez Garcia](https://www.linkedin.com/in/kevinperezgarcia)
 
@@ -18,7 +18,7 @@ Ciclo 2
 
 ## 📌 Tabla de contenido
 - [Plan de Tesis](#plan-de-tesis)
-  - [👥 Autor](#-autor)
+  - [👥 Alumno](#-alumno)
   - [📌 Tabla de contenido](#-tabla-de-contenido)
   - [Información del curso](#información-del-curso)
   - [Contenido del curso](#contenido-del-curso)
@@ -33,9 +33,9 @@ Ciclo 2
 
 ## Contenido del curso
 
-* [Sesión 1](/sesion1/). Idea de investigación
-* [Sesión 2](/sesion2/). Exposiciones de ideas de investigación
-* [Sesión 3](/sesion3/). Revisión documentaria
-* [Sesión 4](/sesion4/). Gestión documentaria
+* [Sesión 1](/sesion1.pdf). Idea de investigación
+* [Sesión 2](/sesion2.pdf). Exposiciones de la idea de investigación de los planes de tesis
+* [Sesión 3](/sesion3.pdf). Revisión documentaria
+* [Sesión 4](/sesion4.pdf). Gestión documentaria
 * Sesión 5. Exposiciones del estado del arte de los planes de tesis
-* [Sesión 6](/sesion6/). Redacción de objetivos, pregunta y título de investigación
+* [Sesión 6](/sesion6.pdf). Redacción de objetivos, pregunta y título de investigación
