@@ -39,3 +39,4 @@ Ciclo 2
 * [Sesión 4](/sesion4.pdf). Gestión documentaria
 * Sesión 5. Exposiciones del estado del arte de los planes de tesis
 * [Sesión 6](/sesion6.pdf). Redacción de objetivos, pregunta y título de investigación
+* [Sesión 7](/sesion7.pdf). Redacción de la situación problemática e importancia de la investigación
