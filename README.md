@@ -22,6 +22,7 @@ Ciclo 2
   - [📌 Tabla de contenido](#-tabla-de-contenido)
   - [Información del curso](#información-del-curso)
   - [Contenido del curso](#contenido-del-curso)
+  - [Trabajo final](#trabajo-final)
 
 ## Información del curso
 
@@ -41,3 +42,7 @@ Ciclo 2
 * [Sesión 6](/sesion6.pdf). Redacción - parte 2: Redacción de objetivos, pregunta y título de investigación
 * [Sesión 7](/sesion7.pdf). Redacción - parte 3: Redacción de la situación problemática e importancia de la investigación
 * [Sesión 8](/sesion8.pdf). Redacción - parte 4: Redacción de la hipótesis, metodología y resumen de la investigación
+
+## Trabajo final
+
+Entregar el plan de tesis. Lo puedes encontrar [aquí](https://kevinperezgarcia.quarto.pub/data-science-portfolio/planTesis/planTesis.html)!
