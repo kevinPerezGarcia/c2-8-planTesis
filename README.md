@@ -36,8 +36,8 @@ Ciclo 2
 * [Sesión 1](/sesion1.pdf). Idea de investigación
 * [Sesión 2](/sesion2.pdf). Exposiciones de la idea de investigación de los planes de tesis
 * [Sesión 3](/sesion3.pdf). Revisión documentaria
-* [Sesión 4](/sesion4.pdf). Gestión documentaria
-* Sesión 5. Exposiciones del estado del arte de los planes de tesis
-* [Sesión 6](/sesion6.pdf). Redacción de objetivos, pregunta y título de investigación
-* [Sesión 7](/sesion7.pdf). Redacción de la situación problemática e importancia de la investigación
-* [Sesión 8](/sesion8.pdf). Redacción de la hipótesis, metodología y resumen de la investigación
+* [Sesión 4](/sesion4.pdf). Gestión documentaria | Redacción - parte 1: Redacción de la revisión de literatura
+* Sesión 5. Exposiciones de la revisión de literatura de los planes de tesis
+* [Sesión 6](/sesion6.pdf). Redacción - parte 2: Redacción de objetivos, pregunta y título de investigación
+* [Sesión 7](/sesion7.pdf). Redacción - parte 3: Redacción de la situación problemática e importancia de la investigación
+* [Sesión 8](/sesion8.pdf). Redacción - parte 4: Redacción de la hipótesis, metodología y resumen de la investigación
