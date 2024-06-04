@@ -40,3 +40,4 @@ Ciclo 2
 * Sesión 5. Exposiciones del estado del arte de los planes de tesis
 * [Sesión 6](/sesion6.pdf). Redacción de objetivos, pregunta y título de investigación
 * [Sesión 7](/sesion7.pdf). Redacción de la situación problemática e importancia de la investigación
+* [Sesión 8](/sesion8.pdf). Redacción de la hipótesis, metodología y resumen de la investigación
